@@ -47,8 +47,8 @@ ls && cd SH2K9 && ls
 python2 sh2k9.py 
 ```
 
-*   USERNAME: knock Admin
-*   Passwords : knock Admin
+*   USERNAME: SHANTO HASAN
+*   Passwords : DARK CYBER
 
 
 ## ***Follow Me***
