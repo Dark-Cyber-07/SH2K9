@@ -28,6 +28,9 @@ pip2 install requests
 pip2 install mechanize
 git clone https://github.com/Dark-Cyber-07/SH2K9
 ```
+Note: (This Tools Are Paid, So You Need Permission To Use SHANTO SH-UID Tools )
+
+
 ## Install on Terminal :
 ```
 apt update && apt upgrade
@@ -40,11 +43,14 @@ pip2 install requests
 pip2 install mechanize
 git clone https://github.com/Dark-Cyber-07/SH2K9
 ```
+Note: (This Tools Are Paid, So You Need Permission To Use SHANTO SH-UID Tools )
+
+
 
 ## Tools Run :
 ```
 ls && cd SH2K9 && ls
-python2 sh2k9.py 
+python 2k9.py 
 ```
 
 *   USERNAME: SHANTO HASAN
